@@ -5,6 +5,7 @@ public class Company {
     }
 
     public String getname() {
+        String hello = "Hello";
         return this.name;
     }
 }
